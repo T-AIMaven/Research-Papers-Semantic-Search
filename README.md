@@ -1,7 +1,7 @@
 # RAG AWS API QDRANT 🚀
 
 <p align="center">
-  <img width="976" alt="aws" src="https://github.com/benitomartin/mlops-aws-insurance/assets/116911431/4bfeb7ce-b151-4042-8cf6-c83299a2765a">
+  <img width="976" alt="aws" src="https://github.com/T-AIMaven/mlops-aws-insurance/assets/116911431/4bfeb7ce-b151-4042-8cf6-c83299a2765a">
 </p>
 
 This repository contains a full Q&A pipeline using LangChain framework, Qdrant as vector database and AWS Lambda Function and API Gateway. The data used are research papers that can be loaded into the vector database, and the AWS Lambda Function processes the request using the retrieval and generation logic. Therefore it can use any other research paper from Arxiv.
@@ -60,7 +60,7 @@ The Python version used for this project is Python 3.10. You can follow along th
 1. Clone the repo (or download it as a zip file):
 
    ```bash
-   git clone https://github.com/benitomartin/rag-aws-qdrant.git
+   git clone https://github.com/T-AIMaven/rag-aws-qdrant.git
    ```
 
 2. Create the virtual environment named `main-env` using Conda with Python version 3.10:
@@ -107,5 +107,5 @@ The Python version used for this project is Python 3.10. You can follow along th
 ## Streamlit UI
 
 <p align="center">
-    <img src="https://github.com/benitomartin/mlops-aws-insurance/assets/116911431/3bd3c707-4967-43d2-ba83-2a1a19196e47">
+    <img src="https://github.com/T-AIMaven/mlops-aws-insurance/assets/116911431/3bd3c707-4967-43d2-ba83-2a1a19196e47">
     </p>
