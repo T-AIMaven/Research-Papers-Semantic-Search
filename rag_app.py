@@ -22,6 +22,7 @@ QDRANT_API_KEY = os.getenv('QDRANT_API_KEY')
 QDRANT_URL = os.getenv('QDRANT_URL')
 COLLECTION_NAME = os.getenv('COLLECTION_NAME')
 
+
 # Initialize Qdrant client
 client = QdrantClient(
     url=QDRANT_URL,
